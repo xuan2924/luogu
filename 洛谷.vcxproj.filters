@@ -21,5 +21,14 @@
     <ClCompile Include="优雅的复制超级马里奥cpp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="再分肥宅水.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求三角形面积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="上学问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
