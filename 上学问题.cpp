@@ -39,28 +39,57 @@
 #include<iomanip>
 using namespace std;
 
-int main() {
-    int s, v;
-    cin >> s >> v;
+//int main() {
+//    int s, v;
+//    cin >> s >> v;
+//
+//    // 计算总时间（分钟）
+//    int total_time = (s + v - 1) / v + 10; // 向上取整
+//
+//    // 计算最晚出门时间
+//    int latest_time = 8 * 60 - total_time;
+//
+//    // 如果时间为负数，表示需要提前一天出发
+//    if (latest_time < 0) {
+//        latest_time += 24 * 60;
+//    }
+//
+//    // 计算小时和分钟
+//    int hour = latest_time / 60;
+//    int minute = latest_time % 60;
+//
+//    // 输出结果，格式为 HH:MM
+//    cout << setw(2) << setfill('0') << hour << ":"
+//        << setw(2) << setfill('0') << minute << endl;
+//
+//    return 0;
+//}
 
-    // 计算总时间（分钟）
-    int total_time = (s + v - 1) / v + 10; // 向上取整
 
-    // 计算最晚出门时间
-    int latest_time = 8 * 60 - total_time;
-
-    // 如果时间为负数，表示需要提前一天出发
-    if (latest_time < 0) {
-        latest_time += 24 * 60;
-    }
-
-    // 计算小时和分钟
-    int hour = latest_time / 60;
-    int minute = latest_time % 60;
-
-    // 输出结果，格式为 HH:MM
-    cout << setw(2) << setfill('0') << hour << ":"
-        << setw(2) << setfill('0') << minute << endl;
-
-    return 0;
-}
+//#include<iostream>
+//#include<iomanip>
+//#include<cmath>
+//using namespace std;
+//int main() {
+//	//向上取整
+//	int s, v,hour,min;
+//	cin >> s >> v;
+//	int totalTime = (s + v - 1) / v;//添加v-1确保向上取整
+//	/*cout << totalTime << endl;*/
+//	int preHour =(totalTime+10+59)/60;
+//	/*cout << preHour << endl;*/
+//	
+//	if (preHour-8>=0 ) {
+//		int hour = 32 - preHour;
+//		int min =60- (totalTime + 10) % 60;
+//		cout << setw(2) << setfill('0') << hour << ':' << setw(2)<<setfill('0')<<min;
+//	}
+//
+//	else if (preHour - 8 < 0) {
+//		int hour = 8 - preHour;
+//		int min=60- (totalTime + 10) % 60;
+//		cout << setw(2) << setfill('0') << hour << ':' << setw(2) << setfill('0') << min;
+//	}
+//
+//	return 0;
+//}

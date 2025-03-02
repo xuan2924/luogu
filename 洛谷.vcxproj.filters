@@ -30,5 +30,14 @@
     <ClCompile Include="上学问题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="大象喝水.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="小鱼游泳.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="小玉买文具.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -22,6 +22,9 @@
     <ClCompile Include="上学问题.cpp" />
     <ClCompile Include="优雅的复制超级马里奥cpp.cpp" />
     <ClCompile Include="再分肥宅水.cpp" />
+    <ClCompile Include="大象喝水.cpp" />
+    <ClCompile Include="小玉买文具.cpp" />
+    <ClCompile Include="小鱼游泳.cpp" />
     <ClCompile Include="数字反转.cpp" />
     <ClCompile Include="求三角形面积.cpp" />
   </ItemGroup>
