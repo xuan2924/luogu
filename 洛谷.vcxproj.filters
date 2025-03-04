@@ -39,5 +39,23 @@
     <ClCompile Include="小玉买文具.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算总分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="猴子吃桃.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="闰年的判断.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="保留有效数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="不高兴的小学生.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
