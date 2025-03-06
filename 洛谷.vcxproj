@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="三角形分类.cpp" />
     <ClCompile Include="上学问题.cpp" />
     <ClCompile Include="不高兴的小学生.cpp" />
     <ClCompile Include="优雅的复制超级马里奥cpp.cpp" />
