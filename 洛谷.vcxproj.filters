@@ -60,5 +60,14 @@
     <ClCompile Include="三角形分类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="交电费.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="小鱼的航程.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三角函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

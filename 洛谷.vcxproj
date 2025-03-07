@@ -19,15 +19,18 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="三角函数.cpp" />
     <ClCompile Include="三角形分类.cpp" />
     <ClCompile Include="上学问题.cpp" />
     <ClCompile Include="不高兴的小学生.cpp" />
+    <ClCompile Include="交电费.cpp" />
     <ClCompile Include="优雅的复制超级马里奥cpp.cpp" />
     <ClCompile Include="保留有效数字.cpp" />
     <ClCompile Include="再分肥宅水.cpp" />
     <ClCompile Include="大象喝水.cpp" />
     <ClCompile Include="小玉买文具.cpp" />
     <ClCompile Include="小鱼游泳.cpp" />
+    <ClCompile Include="小鱼的航程.cpp" />
     <ClCompile Include="数字反转.cpp" />
     <ClCompile Include="求三角形面积.cpp" />
     <ClCompile Include="源.cpp" />
