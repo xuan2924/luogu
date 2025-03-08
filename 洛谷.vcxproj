@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ABC.cpp" />
     <ClCompile Include="三角函数.cpp" />
     <ClCompile Include="三角形分类.cpp" />
     <ClCompile Include="上学问题.cpp" />
@@ -31,6 +32,7 @@
     <ClCompile Include="小玉买文具.cpp" />
     <ClCompile Include="小鱼游泳.cpp" />
     <ClCompile Include="小鱼的航程.cpp" />
+    <ClCompile Include="摘苹果.cpp" />
     <ClCompile Include="数字反转.cpp" />
     <ClCompile Include="求三角形面积.cpp" />
     <ClCompile Include="源.cpp" />
