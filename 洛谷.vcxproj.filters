@@ -75,5 +75,11 @@
     <ClCompile Include="ABC.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ISBN.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="寻找最小的数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
