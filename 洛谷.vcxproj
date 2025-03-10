@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="ABC.cpp" />
     <ClCompile Include="ISBN.cpp" />
+    <ClCompile Include="一尺之锤.cpp" />
     <ClCompile Include="三角函数.cpp" />
     <ClCompile Include="三角形分类.cpp" />
     <ClCompile Include="上学问题.cpp" />
@@ -29,6 +30,7 @@
     <ClCompile Include="优雅的复制超级马里奥cpp.cpp" />
     <ClCompile Include="保留有效数字.cpp" />
     <ClCompile Include="再分肥宅水.cpp" />
+    <ClCompile Include="分类平均.cpp" />
     <ClCompile Include="大象喝水.cpp" />
     <ClCompile Include="寻找最小的数字.cpp" />
     <ClCompile Include="小玉买文具.cpp" />
@@ -36,11 +38,14 @@
     <ClCompile Include="小鱼的航程.cpp" />
     <ClCompile Include="摘苹果.cpp" />
     <ClCompile Include="数字反转.cpp" />
+    <ClCompile Include="数字直角三角形.cpp" />
     <ClCompile Include="求三角形面积.cpp" />
     <ClCompile Include="源.cpp" />
     <ClCompile Include="猴子吃桃.cpp" />
     <ClCompile Include="算总分.cpp" />
     <ClCompile Include="闰年的判断.cpp" />
+    <ClCompile Include="阶乘之和（高精加乘）.cpp" />
+    <ClCompile Include="高精度加和乘.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

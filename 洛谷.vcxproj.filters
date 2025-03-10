@@ -81,5 +81,20 @@
     <ClCompile Include="寻找最小的数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="分类平均.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一尺之锤.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数字直角三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="高精度加和乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="阶乘之和（高精加乘）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
